@@ -60,12 +60,12 @@ I'm Bryant Stewart a BackEnd Developer I Spend most of time coding
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=bbaldallaque.bbaldallaque)
 
-<details>
+<!-- <details>
 <summary>
   More stuff about me
 </summary>
 
-<br >
+<br > -->
 
 
 I like to share with people who teach me a little of their knowledge in the programming area
