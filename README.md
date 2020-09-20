@@ -77,7 +77,9 @@ CoderOne is a youtube channel for learning Web/Mobile development, coding and de
 #### Coding Stats
 
 <!--START_SECTION:waka-->
-
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 #### Github Stats
