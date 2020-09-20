@@ -51,7 +51,7 @@ I'm Bryant Stewart a BackEnd Developer I Spend most of time coding
 <br />
 <br />
 
-#### Bizness
+#### Business
 <!-- - :paperclip: [My Resume/CV](https://github.com/ipenywis/ipenywis/blob/master/resumes/resume%20v1.0.pdf) -->
 - :email: bbaldallaque@gmail.com
 
