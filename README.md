@@ -82,7 +82,8 @@ CoderOne is a youtube channel for learning Web/Mobile development, coding and de
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Markdown   2 hrs 25 mins   ██████████████████████▒░░   89.73 % 
+YAML       16 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.27 % 
 ```
 <!--END_SECTION:waka-->
 
